@@ -1,2 +1,2 @@
-# psdesignro.gihub.io
+# psdesignro.github.io
 Sandbox
